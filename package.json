@@ -1,6 +1,6 @@
 {
   "name": "push2cloud-compiler-git",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "git plugin for push2cloud-compiler",
   "main": "index.js",
   "scripts": {
